@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Illinois
 
-> Free BeamStation sample export with 127 rows and masked direct-contact fields.
+> Free BeamStation sample export with 131 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `226571` |
 | Location | Illinois |
 | Category | Food and Drink |
-| Full dataset size | 1,272 records |
-| Free sample size | 127 records (9.98%) |
-| Last export | 2026-04-16T21:09:47.555322+00:00 |
+| Full dataset size | 1,315 records |
+| Free sample size | 131 records (9.96%) |
+| Last export | 2026-04-23T16:03:01.923798+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-226571/releases/download/sample-latest/beamstation_226571_food_and_drink-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
